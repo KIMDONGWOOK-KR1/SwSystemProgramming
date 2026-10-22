@@ -1,0 +1,20 @@
+# 빌드 결과
+out/
+dist/
+
+# 실행할 때 만들어지는 사용자 데이터
+data/
+
+# 수업 자료와 제출 보고서는 공개 저장소에 올리지 않는다
+강의자료/
+*.doc
+*.docx
+*.pdf
+~$*
+
+# 편집기·운영체제
+.idea/
+.vscode/
+*.iml
+Thumbs.db
+desktop.ini
